@@ -70,10 +70,10 @@ class Grid {
         // ctx.fillStyle = "#333";
         // ctx.fillRect(x, y, box.width, box.height);
 
-        if (box.id === 'YO') {
-            const a = new Audio('4939.mp3');
+        // if (box.id === 'YO') {
+        //     const a = new Audio('4939.mp3');
             // a.play();
-        }
+        // }
     }
 }
 
