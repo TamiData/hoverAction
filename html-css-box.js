@@ -71,8 +71,9 @@ class Grid {
         // ctx.fillRect(x, y, box.width, box.height);
 
         // if (box.id === 'YO') {
+        // This file doesn't exist anymore
         //     const a = new Audio('4939.mp3');
-            // a.play();
+        //     a.play();
         // }
     }
 }
