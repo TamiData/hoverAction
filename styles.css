@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+.flex-center {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#canvas {
+    z-index: -1;
+    position: absolute;
+}
+
+body {
+    margin: 0;
+    background: #000;
+}
+
+#a4 {
+    width: 595px;
+    height: 841px;
+    border: 1px solid white;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    border: 1px solid white;
+    height: calc(841px/3);
+    flex: 1 1 auto;
+    color: white;
+    font-size: 64px;
+}
+
+.box:hover {
+    width: 200px;
+}

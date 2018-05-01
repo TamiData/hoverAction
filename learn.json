@@ -1,0 +1,18 @@
+{
+    "object": {
+        "array": [ "element1", "element1", "..." ],
+        "anotherObject": {
+            "name": "yeah"
+        }
+    },
+    "sounds": [
+        "723.mp3",
+        "content/toll/2378923.mp3"
+    ],
+    "row1": {
+        "box1": {
+            "sound": "aishdasd.mp3",
+            "bild": "www.malv.info/coolgraphics/bla.jpg"
+        }
+    }
+}
